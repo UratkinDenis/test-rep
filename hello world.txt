@@ -1,1 +1,4 @@
 print: "Hello!";
+function test () {
+print: 1;
+}
