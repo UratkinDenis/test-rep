@@ -3,4 +3,5 @@ function test () {
 print: 1;
 }
 
+print: "hi, brother!!!? one two";
 Изменения
