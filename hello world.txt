@@ -3,4 +3,4 @@ function test () {
 print: 1;
 }
 
-print: "hi, brother!!!?";
+print: "hi, brother!!!? one two";
